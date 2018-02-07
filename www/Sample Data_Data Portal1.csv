@@ -1,0 +1,149 @@
+state_name,district_name,merchant_name,product_name,transcnt,saleamount
+Andaman and Nicobar Islands,Agra,1mg Ayush,Renewal Premium,56,30000
+Andaman and Nicobar Islands,Agra,Apna Print,Vodafone Mobile Top Up,56,326
+Andaman and Nicobar Islands,Agra,Bajaj Allianz Life Insurance,Airtel Mobile Top Up,44,79
+Andaman and Nicobar Islands,Agra,Birla Sun Life Insurance,Flight Tickets,7,80000
+Andhra Pradesh,Agra,Birla Sun Life Insurance,Personal Accidental,44,57000
+Andhra Pradesh,Aligarh,CSC Aadhaar,Passport Services,678,45789
+Andhra Pradesh,Aligarh,CSC Aadhaar,Renewal Premium,15,63188
+Andhra Pradesh,Aligarh,CSC Aadhaar,Life Insurance,3,66666
+Andhra Pradesh,Aligarh,CSC Aadhaar,Renewal Premium,13,18774
+Andhra Pradesh,Aligarh,CSC Aadhaar,Motor Third Party,1,66
+Assam,Aligarh,CSC Aadhaar,PAN Card Services,6,109
+Assam,Allahabad,CSC Aadhaar,Pradhan Mantri Awas Yojana,5,860
+Assam,Allahabad,CSC Aadhaar,Jeevan Pramaan,6,10
+Assam,Allahabad,CSC Services,Life Certificate (LIC),3,69979
+Assam,Allahabad,CSC Services,Aadhaar Demographic Update,3,967
+Assam,Anand,CSC Services,Renewal Premium,3,97
+Bihar,Anand,CSC Services,CSC Skill Centre,3,60
+Bihar,Anand,CSC Services,Basic Banking Course,2,69
+Bihar,Anand,CSC Services,Pin Pad Device Payment Service,3,96
+Bihar,Anand,CSC Services,Course Registration,3,96
+Bihar,Anantapur,CSC Services,Online Bill Payment (RAPDRP),3,96
+Bihar,Araria,CSC Services,Passport Services,3,1300
+Bihar,Araria,CSC Services,Renewal Premium,3,474
+Bihar,Araria,CSC Services,Renewal Premium,1,747
+Delhi,Araria,CSC Services,Vodafone Mobile Top Up,3,44
+Delhi,Araria,CSC Services,Docomo Recharge,7,33
+Delhi,Araria,CSC Services,Reliance GSM Recharge,3,25
+Gujarat,Araria,CSC Services,Jeevan Pramaan,3,5252
+Gujarat,Araria,Financial Services,Aadhaar Demographic Update,3,63
+Gujarat,Auraiya,Financial Services,Aadhaar eKYC PVC Print,3,47
+Gujarat,Auraiya,Financial Services,Renewal Premium,5,47
+Gujarat,Auraiya,Financial Services,Personal Accidental,3,457
+Haryana,Aurangabad,Financial Services,Motor Third Party,8,756
+Haryana,Aurangabad,Financial Services,Personal Accidental,17,999
+Haryana,Aurangabad,Financial Services,Renewal Premium,7,75
+Haryana,Aurangabad,Financial Services,Income Tax Filing,7,87
+Himachal Pradesh,Bagalkot,Financial Services,CSC Skill Centre,7,68
+Himachal Pradesh,Bagalkot,Financial Services,Swavalamban Contribution,7,45
+Himachal Pradesh,Baghpat,Financial Services,Basic Banking Course,7,175
+Himachal Pradesh,Baghpat,Financial Services,Course Registration,25,5600
+Himachal Pradesh,Baghpat,Financial Services,Online Bill Payment,16,30583
+Himachal Pradesh,Barwani,Financial Services,Passport Services,9,66
+Jammu and Kashmir,Barwani,Food Safety and Standards Authority of India,Reliance CDMA Recharge,7,652
+Jammu and Kashmir,Beed,Food Safety and Standards Authority of India,PAN Card Services,7,654
+Jammu and Kashmir,Belagavi,Food Safety and Standards Authority of India,Flight Tickets,7,74520
+Jammu and Kashmir,Belagavi,Food Safety and Standards Authority of India,Passport Services,7,450
+Jammu and Kashmir,Belagavi,Future Generali India Insurance,Registration Certificate,7,540
+Jammu and Kashmir,Belagavi,Future Generali India Insurance,PAN Card Services,12,867
+Jammu and Kashmir,Belagavi,Future Generali India Insurance,Renewal Premium,2,90
+Jharkhand,Bharatpur,Future Generali India Insurance,Basic Banking Course,4,89
+Jharkhand,Bharatpur,HDFC ERGO General Insurance,Motor Third Party,1,78
+Jharkhand,Bharatpur,HDFC ERGO General Insurance,Passport Services,6,88
+Karnataka,Bharatpur,HDFC ERGO General Insurance,Motor Third Party,1,56
+Karnataka,Bhilwara,HDFC ERGO General Insurance,Registration Certificate,1,200
+Karnataka,Bhilwara,HDFC ERGO General Insurance,Renewal Premium,4,270
+Karnataka,Bhilwara,HDFC ERGO General Insurance,Renewal Premium,1,6682
+Karnataka,Bongaigaon,Himachal Pradesh State Electricity,Printing Service,1,4
+Karnataka,Bongaigaon,IFFCO TOKIO General Insurance,Airtel,9,26
+Karnataka,Bongaigaon,IndiaFirst Life Insurance,Sun TV,35,8563
+Karnataka,Bongaigaon,IndiaFirst Life Insurance,Tata Sky,9,34
+Karnataka,Bongaigaon,IndiaFirst Life Insurance,Idea Recharge,6,24
+Karnataka,Bongaigaon,IndiaFirst Life Insurance,Idea Recharge,2,11
+Karnataka,Chikkamagaluru,IndiaFirst Life Insurance,Dish TV,3,5
+Karnataka,Chikkamagaluru,IndiaFirst Life Insurance,Airtel Mobile Top Up,4,14
+Karnataka,Chikkamagaluru,Kerala State Electricity Board (KSEB),PAN Card Services,6,598
+Karnataka,Chitradurga,Life Insurance Corporation - LIC,PVC Card and Biometric Device,1,3
+Karnataka,Chitradurga,Life Insurance Corporation - LIC,PAN Card Services,3,120
+Karnataka,Faridkot,Life Insurance Corporation - LIC,Pradhan Mantri Awas Yojana,3,12
+Karnataka,Faridkot,Life Insurance Corporation - LIC,Jeevan Pramaan,22,220
+Karnataka,Faridkot,Life Insurance Corporation - LIC,Aadhaar Demographic Update,4,317
+Kerala,Firozpur,Life Insurance Corporation - LIC,Airtel Mobile Top Up,2,4
+Kerala,Gomati,Max Life Insurance,PAN Card Services,1,5
+Kerala,Gomati,New India Assurance,Online Bill Payment,6,5
+Lakshadweep,Gomati,NSDL e-Governance Infrastructure Limited,Videocon D2h Recharge,2,360
+Lakshadweep,Gurdaspur,NSDL e-Governance Infrastructure Limited,Aadhaar Demographic Update,2,5
+Madhya Pradesh,Gurdaspur,NSDL e-Governance Infrastructure Limited,Life Certificate (LIC),1,5
+Madhya Pradesh,Gurdaspur,NSDL e-Governance Infrastructure Limited,Aadhaar Demographic Update,5,60
+Madhya Pradesh,Hisar,NSDL e-Governance Infrastructure Limited,Vodafone Mobile Top Up,5,92
+Madhya Pradesh,Hisar,Oxigen,Docomo Recharge,26,899
+Madhya Pradesh,Hisar,Oxigen,Reliance GSM Recharge,23,56
+Maharashtra,Hisar,Oxigen,Course Registration,7,8
+Maharashtra,Karimnagar,Oxigen,Passport Services,10,1000
+Maharashtra,Karimnagar,Oxigen,Life Insurance,2,7
+Maharashtra,Karimnagar,Oxigen,Renewal Premium,2,8
+Maharashtra,Khammam,Oxigen,Registration Certificate,16,5000
+Punjab,Khammam,Oxigen,Renewal Premium,1,89
+Punjab,Kishtwar,Oxigen,PAN Card Services,86,9202
+Punjab,Kishtwar,Oxigen,Flight Tickets,7,666
+Punjab,Kishtwar,Oxigen,Motor Third Party,4,9
+Punjab,Lakshadweep,Oxigen,PAN Card Services,6,223
+Punjab,Lakshadweep,Oxigen,Motor Third Party,1,65000
+Punjab,Moga,Oxigen,Flight Tickets,6,34
+Punjab,Muktsar,Oxigen,Passport Services,6,11
+Punjab,Nalgonda,Oxigen,Registration Certificate,2,200
+Rajasthan,Nalgonda,Oxigen,CSC Telemedicine,1,115
+Rajasthan,North and Middle Andaman,Oxigen,Basic Banking Course,2,664
+Rajasthan,North and Middle Andaman,Oxigen,Pin Pad Device Payment Service,2,21
+Rajasthan,North and Middle Andaman,Oxigen,Passport Services,4,32
+Rajasthan,North and Middle Andaman,Oxigen,Motor Third Party,2,25
+Rajasthan,Ramgarh,Oxigen,PAN Card Services,4,164
+Rajasthan,Ramgarh,Oxigen,PVC Card and Biometric Device,2,56
+Tamil Nadu,Ramgarh,Oxigen,PAN Card Services,8,379
+Tamil Nadu,Satna,Oxigen,PVC Card and Biometric Device,4,7
+Tamil Nadu,Satna,Oxigen,Jeevan Pramaan,2,34567
+Tamil Nadu,Satna,Oxigen,Aadhaar Demographic Update,178,98765
+Tamil Nadu,Sepahijala,Oxigen,Motor Comprehensive,1,9701
+Tamil Nadu,Sepahijala,Oxigen,Motor Third Party,4,3208
+Tamil Nadu,Sepahijala,Oxigen,PAN Card Services,180,19260
+Tamil Nadu,Sivaganga,Oxigen,PVC Card and Biometric Device,4,76543
+Tamil Nadu,Sivaganga,Oxigen,Reliance GSM Recharge,3,654
+Tamil Nadu,Sivaganga,Oxigen,Tata Sky,3,654
+Tamil Nadu,Sivaganga,Oxigen,Idea Recharge,6,654
+Tamil Nadu,The Nilgiris,Oxigen,Aircel Recharge,43,654
+Tamil Nadu,The Nilgiris,Passport and Visa Division,Airtel Mobile Top Up,5,38
+Telangana,The Nilgiris,Passport and Visa Division,Airtel Mobile Top Up,65,240
+Telangana,Thiruvarur,Passport and Visa Division,Motor Third Party,12,54
+Telangana,Tiruchirappalli,Passport and Visa Division,PAN Card Services,5,210
+Telangana,Tiruchirappalli,Passport and Visa Division,Docomo Recharge,3,5
+Telangana,Tiruchirappalli,Passport and Visa Division,Reliance GSM Recharge,10,50
+Telangana,Tiruchirappalli,Passport and Visa Division,Vodafone Mobile Top Up,5,45
+Telangana,Tiruchirappalli,Passport and Visa Division,Docomo Recharge,15,6788
+Tripura,Tumakuru,Reliance Nippon Life Insurance,CSC Skill Centre,6,55555
+Tripura,Udhampur,Reliance Nippon Life Insurance,Course Registration,1,4566
+Tripura,Udhampur,Ringmd,Renewal Premium,1,5
+Tripura,Udhampur,SBI Life Insurance,Motor Comprehensive,2,2734
+Tripura,Udhampur,SBI Life Insurance,PAN Card Services,87,9309
+Tripura,Una,SBI Life Insurance,Renewal Premium,10,45654
+Uttar Pradesh,Una,South Bihar Power Distribution,Reliance GSM Recharge,37,45456
+Uttar Pradesh,Una,Tata AIA Life Insurance,Tata Sky,25,120000
+Uttar Pradesh,Una,Tata AIG General Insurance,Idea Recharge,150,456
+Uttar Pradesh,Una,Tax Genius,Dish TV,33,54
+Uttar Pradesh,Una,Tax Genius,Uninor Mobile Top Up,45,5640
+Uttar Pradesh,Vijayapur,Travel Boutique Online,Motor Third Party,1,769
+Uttar Pradesh,Vijayapur,Travel Boutique Online,Renewal Premium,677,46545
+Uttar Pradesh,Wayanad,Travel Boutique Online,Income Tax Filing,1,345
+Uttar Pradesh,Wayanad,Travel Boutique Online,Airtel,10,1710
+Uttar Pradesh,Wayanad,United India Insurance,Vodafone Mobile Top Up,66,34
+Uttar Pradesh,West,United India Insurance,Docomo Recharge,56,567
+Uttar Pradesh,West,Universal Sompo General Insurance,Renewal Premium,342,280652
+Uttar Pradesh,West,UTI Infrastructure Technology and Services Limited,Renewal Premium,6,92742
+Uttar Pradesh,West Godavari,UTI Infrastructure Technology and Services Limited,Health Services,1,310
+Uttar Pradesh,West Godavari,UTI Infrastructure Technology and Services Limited,Motor Third Party,9,37426
+Uttar Pradesh,West Godavari,UTI Infrastructure Technology and Services Limited,Aadhaar eKYC PVC Print,194,14356
+Uttar Pradesh,West Godavari,UTI Infrastructure Technology and Services Limited,Renewal Premium,50,"1,34,615"
+Uttar Pradesh,West Godavari,UTI Infrastructure Technology and Services Limited,Renewal Premium,5,18189
+Uttar Pradesh,Yadgir,UTI Infrastructure Technology and Services Limited,PVC Card and Biometric Device,78,5338
+Uttar Pradesh,Yadgir,UTI Infrastructure Technology and Services Limited,Jeevan Pramaan,1,10
+Uttar Pradesh,Yadgir,Videocon d2h,L&T Construction Skills Training Registration,8,50
